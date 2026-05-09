@@ -1,0 +1,2 @@
+Software Configuration Management is important because it improves teamwork, tracks software changes,
+and helps maintain system quality and stability.
